@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 59.4 59.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #526247;
+      }
+
+      .cls-2 {
+        fill: #c4776a;
+      }
+
+      .cls-3 {
+        stroke-linecap: round;
+        stroke-width: 1.5px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+        stroke: #526247;
+      }
+
+      .cls-4 {
+        stroke-width: 1.4px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-4" cx="29.7" cy="29.7" r="29"/>
+  <circle class="cls-1" cx="29.7" cy="27.1" r="5"/>
+  <ellipse class="cls-2" cx="29.7" cy="39.1" rx="5" ry="8"/>
+  <path class="cls-3" d="M27.2,31.4c-9.3-8-14.7-14-16-18"/>
+  <path class="cls-3" d="M26.2,32.8c-10.7-5.3-16-8.7-16-10"/>
+  <path class="cls-3" d="M25.7,34.1c-12-2.7-17.3-3.3-16-2"/>
+  <path class="cls-3" d="M25.7,35.7c-13.3,0-18.7,2-16,6"/>
+  <path class="cls-3" d="M32.1,31.4c9.3-8,14.7-14,16-18"/>
+  <path class="cls-3" d="M33,32.8c10.7-5.3,16-8.7,16-10"/>
+  <path class="cls-3" d="M33.7,34.1c12-2.7,17.3-3.3,16-2"/>
+  <path class="cls-3" d="M33.7,35.7c13.3,0,18.7,2,16,6"/>
+</svg>
